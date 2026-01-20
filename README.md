@@ -1,2 +1,2 @@
-# ejemplo-git-pull
+# Repositorio para parcticar git pull (freeCodeCamp)
 Repositorio para practicar git pull
